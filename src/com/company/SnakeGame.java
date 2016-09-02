@@ -166,9 +166,6 @@ public class SnakeGame extends JFrame {
     private boolean number_button_pressed;
 
 
-    //private ArrayList<Snake> snakeList;
-
-
 
     //**********************************************************************************************
     // CONSTRUCTORS...
